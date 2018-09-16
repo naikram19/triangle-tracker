@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(../images/background.jpg) fixed;
+  background: url(../images/background1.jpg) fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -9,4 +9,14 @@ body{
   text-align: center;
   width: auto;
 
+}
+.data{
+  width: auto;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  background: rgba(177, 46, 46, 0.541);
+  border: 1px solid #cccccc;
+  outline: none;
+  padding: 5px;
 }
