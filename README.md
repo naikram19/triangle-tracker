@@ -10,7 +10,11 @@
 * You are ready to use the Triangle Tracker!
 
 ## Behaviour Driven development
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+* It should detect an equilateral triangle.
+* It should detect an isosceles triangle.
+* it should detect a scalene triangle.
+* it should detect if the object is not a triangle.
+
 ## Technologies Used
 {I have used HTML, CSS and Javascript in this website.}
 ## Support and contact details
