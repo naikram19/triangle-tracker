@@ -10,10 +10,10 @@
 * You are ready to use the Triangle Tracker!
 
 ## Behaviour Driven development
-* It should detect an equilateral triangle.
-* It should detect an isosceles triangle.
-* it should detect a scalene triangle.
-* it should detect if the object is not a triangle.
+* It should detect an equilateral triangle using the length of the three sides.
+* It should detect an isosceles triangle using the length of the three sides.
+* it should detect a scalene triangle using the length of the three sides.
+* it should detect if the object is not a triangle using the length of the three sides.
 
 ## Technologies Used
 {I have used HTML, CSS and Javascript in this website.}
