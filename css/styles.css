@@ -35,3 +35,10 @@ h1{
   font-weight: bold;
   font-family: 'Times New Roman', Times, serif;
 }
+#answer{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-bottom: 20px
+}

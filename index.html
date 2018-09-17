@@ -12,25 +12,26 @@
     <div class="triangleside">
       <h2>
         Side 1:
-        <input type="number" placeholder="  eg: 4" id="side-1">
+        <input type="number" placeholder="  eg: 4" id="side1">
       </h2>
     </div>
     <div class="triangleside">
       <h2>
         Side 2:
-        <input type="number" placeholder="  eg: 8" id="side-2">
+        <input type="number" placeholder="  eg: 8" id="side2">
       </h2>
     </div>
     <div class="triangleside">
       <h2>
         Side 3:
-        <input type="number" placeholder="  eg: 7" id="side-3">
+        <input type="number" placeholder="  eg: 7" id="side3">
       </h2>
     </div>
     <div>
-      <button type="button" onclick="button">Calculate</button>
-      <button type="reset" onclick="data" >clear</button>
+      <button type="button" onclick="button()">Calculate</button>
+      <button type="reset" onclick="document.location.reload(true)" >clear</button>
     </div>
+    <div id="answer" ></div>
 
   </div>
   <script src="js/main.js"></script>
