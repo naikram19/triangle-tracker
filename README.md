@@ -9,8 +9,7 @@
 * Open up inddex.html with a web browser.
 * You are ready to use the Triangle Tracker!
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
+## Behaviour Driven development
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
 {I have used HTML, CSS and Javascript in this website.}
